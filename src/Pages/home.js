@@ -14,8 +14,6 @@ const Home = () => {
   return (
     <div className="min-h-screen bg-gray-50">
 
-<Bmi/>
-      {/* ── Hero ── */}
       <section className="bg-gradient-to-br mt-10 from-blue-700 to-teal-600 text-white py-24 px-6 text-center">
         <h1 className="text-5xl font-extrabold mb-4 leading-tight">
           Your Family's Health,<br/>Our Priority
